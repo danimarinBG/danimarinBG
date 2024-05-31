@@ -15,4 +15,4 @@
 </p>
 
 <p>🎖️ GitHub Stats</p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=danimarinBG&amp;show_icons=true" alt="GitHub Stats"></p>
